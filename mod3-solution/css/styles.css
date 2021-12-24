@@ -1,0 +1,61 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  font-family: cursive;
+  text-align: center;
+
+}
+/** header  **/
+#header-nav{
+background-color: pink; 
+border-radius:0;
+border: 0;
+}
+
+
+.navbar-brand{
+	padding-top: 7px;
+}
+
+.navbar-brand h1{  /*restaurant name*/
+	font-family: cursive;
+	color: black;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: -15px;
+	line-height: .75;
+	text-align: left;
+
+}
+
+h2{
+	text-align: center;
+	font-weight: bold;
+}
+.chicken{
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+	display: block;
+  	clear: both;
+
+}
+p{
+	
+	padding: 15px 15px;
+	background-color: grey;
+	color: white;
+	text-align: left;
+}
+
+.container {   
+ 	/*box-shadow: 0 0 50px #3f0c1f;
+ 	/*border: 2px solid #3f0c1f; */
+ }
+
+
